@@ -16,7 +16,7 @@ State-of-the-art **deep learning system** for automated otolith (fish ear stone)
 ### 1. `01_Binary_Classification_Model.ipynb`
 - **TensorFlow binary classification** analysis
 - ROC curves and confusion matrices
-- Real model performance evaluation with 56.3MB trained models
+- Real model performance evaluation.
 - Binary wild vs hatchery classification
 
 ### 2. `02_MultiClass_Classification_Model.ipynb`
@@ -124,16 +124,4 @@ ai_classifier/
 - **Multi-Modal Learning** combining morphological and genetic data
 - **Edge Deployment** for mobile field research applications
 
-## 🤝 Contributing
-This project demonstrates modern deep learning best practices for biological image classification. Contributions welcome for extending to other marine species or improving model architectures.
-
-## 📄 Citation
-If you use this work in your research, please cite:
-```
-Otolith AI Classifier: Advanced Deep Learning for Marine Biology
-Modern CNN Architectures Applied to Automated Fish Classification
-2024
-```
-
----
-**🏆 Achieving 96.3% accuracy with modern deep learning for marine conservation research**
+Sab Moh Maaya Hai bidu! 
